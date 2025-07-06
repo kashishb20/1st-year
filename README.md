@@ -1,2 +1,3 @@
 # 1st-year
-this is my first Git Repository
+This is my first Git Repository
+Author -> Kashish 
